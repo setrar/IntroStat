@@ -1,6 +1,6 @@
 # &#x1F4D4; Books
 
-- [ ] [Computer Age Statistical Inference](https://hastie.su.domains/CASI_files/PDF/casi.pdf) [PDF](casi.pdf)
+- [ ] [Computer Age Statistical Inference](https://hastie.su.domains/CASI_files/PDF/casi.pdf) [&#x1F516; PDF](casi.pdf)
 
 # &#x1F4DA; References
 
