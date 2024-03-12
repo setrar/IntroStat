@@ -1,8 +1,8 @@
 
 
-The expression you provided, $ E[(X - E[X])^2] $, represents the expected value of the squared difference between a random variable $ X $ and its expected value $ E[X] $. Here's how you can expand it:
+The expression you provided, $E[(X - E[X])^2]$, represents the expected value of the squared difference between a random variable $ X $ and its expected value $E[X]$. Here's how you can expand it:
 
-1. Start with the expression: $ E[(X - E[X])^2] $.
+1. Start with the expression: $E[(X - E[X])^2]$.
   
 2. Expand the square inside the expectation:
    $
