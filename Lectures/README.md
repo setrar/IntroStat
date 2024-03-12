@@ -15,6 +15,8 @@ The expression you provided, $E[(X - E[X])^2]$, represents the expected value of
 
 So, $E[(X - E[X])^2]$ simplifies to $E[X^2] - (E[X])^2$. This quantity is known as the variance of the random variable $X$, denoted as $\text{Var}(X)$. Therefore, $E[(X - E[X])^2] = \text{Var}(X)$.
 
+#### What is the solution of $E[E[X]]$ 
+
 In probability theory, \( E[X] \) represents the expected value or the mean of a random variable \( X \). So, \( E[E[X]] \) represents the expected value of the expected value of \( X \).
 
 For a discrete random variable \( X \), \( E[X] \) is calculated by summing the product of each possible value of \( X \) and its corresponding probability. 
