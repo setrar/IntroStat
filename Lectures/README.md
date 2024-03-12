@@ -9,7 +9,7 @@ The expression you provided, $E[(X - E[X])^2]$, represents the expected value of
    (X - E[X])^2 = X^2 - 2X \cdot E[X] + (E[X])^2
    $
 
-3. Take the expected value of the expanded expression. Since $ E[X^2] $ and $ E[X]^2 $ are constants (assuming $ X $ is a random variable), you get:
+3. Take the expected value of the expanded expression. Since $E[X^2]$ and $E[X]^2$ are constants (assuming $X$ is a random variable), you get:
    $
    E[(X - E[X])^2] = E[X^2] - 2E[X] \cdot E[X] + (E[X])^2
    $
