@@ -1,7 +1,3 @@
-Based on the table of contents you provided for a document on Statistical Decision Theory, here's a concise summary that encapsulates the essence and expected content within each section. This summary aims to provide a snapshot of the foundational knowledge, key concepts, methodologies, and philosophical perspectives introduced in the text.
-
----
-
 **Statistical Decision Theory: A Summary**
 
 **Introduction**  
