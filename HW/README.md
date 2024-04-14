@@ -1,12 +1,10 @@
 ## Grade Evaluation
 
 ```
-- Homework: Read
-Sections 1.1 to 1.6
-of the following book by
-Berger, and write a report. The length of the report is up to 2 pages.
-Please summarize and discuss what you find important and/or
-interesting.
+- Homework:
+Read Sections 1.1 to 1.6 of the following book by Berger, and write a report.
+Please summarize and discuss what you find important and/or interesting.
+The length of the report is up to 2 pages.
 -
 James O Berger. Statistical Decision Theory and Bayesian
 Analysis. Springer 1985.
