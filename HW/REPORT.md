@@ -1,5 +1,5 @@
 
-:1: 
+:one: 
 
 The first chapter of "Statistical Decision Theory and Bayesian Analysis" by James O. Berger introduces the fundamental concepts of statistical decision theory. This chapter lays the groundwork by defining key terms and concepts, such as actions, states of nature, loss functions, and decision rules. Berger discusses how these components are used to frame decision problems in a statistical context.
 
