@@ -26,3 +26,7 @@ Similarly, for a continuous random variable \( X \), \( E[X] \) is calculated by
 So, \( E[E[X]] \) simply means taking the expected value of the expected value of \( X \). In most cases, this would be equivalent to \( E[X] \) itself, as taking the expected value twice doesn't change the value.
 
 In short: \( E[E[X]] = E[X] \).
+
+# References
+
+- [ ] [unpingco/Python-for-Signal-Processing/blob/master/Hypothesis_Testing.ipynb](https://github.com/unpingco/Python-for-Signal-Processing/blob/master/Hypothesis_Testing.ipynb)
